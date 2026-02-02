@@ -1,4 +1,4 @@
 configured_endpoints: 16
 openapi_spec_url: https://storage.googleapis.com/stainless-sdk-openapi-specs/akira-labs%2Fakira-bd09d5151eadfa3471ebed629193c7c981ea1de46d62dafa927caa1eb8481d80.yml
 openapi_spec_hash: 4c80c0fae75608369184e08c135c2beb
-config_hash: 187b4a14b674bbcca6a1b1da1c84b8b1
+config_hash: fa713ef85a0b9d2a27014b1a91cf666c
