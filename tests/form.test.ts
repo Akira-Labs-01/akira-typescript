@@ -1,5 +1,5 @@
-import { multipartFormRequestOptions, createForm } from 'akira/internal/uploads';
-import { toFile } from 'akira/core/uploads';
+import { multipartFormRequestOptions, createForm } from 'akiralabs/internal/uploads';
+import { toFile } from 'akiralabs/core/uploads';
 
 describe('form data validation', () => {
   test('valid values do not error', async () => {

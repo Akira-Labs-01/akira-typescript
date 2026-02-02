@@ -8,8 +8,8 @@
     "moduleResolution": "node",
     "esModuleInterop": true,
     "paths": {
-      "akira/*": ["./src/*"],
-      "akira": ["./src/index.ts"]
+      "akiralabs/*": ["./src/*"],
+      "akiralabs": ["./src/index.ts"]
     },
     "noEmit": true,
 
