@@ -5,8 +5,8 @@
   "compilerOptions": {
     "rootDir": "./dist/src",
     "paths": {
-      "akira/*": ["./dist/src/*"],
-      "akira": ["./dist/src/index.ts"]
+      "akiralabs/*": ["./dist/src/*"],
+      "akiralabs": ["./dist/src/index.ts"]
     },
     "noEmit": false,
     "declaration": true,

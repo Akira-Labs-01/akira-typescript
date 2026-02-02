@@ -1,12 +1,12 @@
 {
-  "name": "akira",
-  "version": "0.0.1",
+  "name": "akiralabs",
+  "version": "0.0.2",
   "description": "The official TypeScript library for the Akira API",
   "author": "Akira <info@akiralabs.ai>",
   "types": "dist/index.d.ts",
   "main": "dist/index.js",
   "type": "commonjs",
-  "repository": "github:stainless-sdks/akira-typescript",
+  "repository": "github:Akira-Labs-01/akira-typescript",
   "license": "Apache-2.0",
   "packageManager": "pnpm@10.24.0",
   "files": [

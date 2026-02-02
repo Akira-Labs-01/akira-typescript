@@ -1,6 +1,6 @@
 // File generated from our OpenAPI spec by Stainless. See CONTRIBUTING.md for details.
 
-import Akira from 'akira';
+import Akira from 'akiralabs';
 
 const client = new Akira({
   apiKey: 'My API Key',
