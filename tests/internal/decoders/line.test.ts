@@ -1,4 +1,4 @@
-import { findDoubleNewlineIndex, LineDecoder } from 'akira/internal/decoders/line';
+import { findDoubleNewlineIndex, LineDecoder } from 'akiralabs/internal/decoders/line';
 
 function decodeChunks(chunks: string[], { flush }: { flush: boolean } = { flush: false }): string[] {
   const decoder = new LineDecoder();

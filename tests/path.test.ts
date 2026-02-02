@@ -1,4 +1,4 @@
-import { createPathTagFunction, encodeURIPath } from 'akira/internal/utils/path';
+import { createPathTagFunction, encodeURIPath } from 'akiralabs/internal/utils/path';
 import { inspect } from 'node:util';
 import { runInNewContext } from 'node:vm';
 

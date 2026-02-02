@@ -1,10 +1,10 @@
 // File generated from our OpenAPI spec by Stainless. See CONTRIBUTING.md for details.
 
-import { APIPromise } from 'akira/core/api-promise';
+import { APIPromise } from 'akiralabs/core/api-promise';
 
 import util from 'node:util';
-import Akira from 'akira';
-import { APIUserAbortError } from 'akira';
+import Akira from 'akiralabs';
+import { APIUserAbortError } from 'akiralabs';
 const defaultFetch = fetch;
 
 describe('instantiate client', () => {
