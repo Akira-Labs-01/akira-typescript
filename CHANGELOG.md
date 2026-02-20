@@ -1,5 +1,15 @@
 # Changelog
 
+## 0.0.4 (2026-02-20)
+
+Full Changelog: [v0.0.3...v0.0.4](https://github.com/Akira-Labs-01/akira-typescript/compare/v0.0.3...v0.0.4)
+
+### Chores
+
+* **internal:** remove mock server code ([418f643](https://github.com/Akira-Labs-01/akira-typescript/commit/418f6434d98a57576e83e5349ee04cae5fe10783))
+* **test:** update skip reason message ([40cc4b5](https://github.com/Akira-Labs-01/akira-typescript/commit/40cc4b54fe88dd22f794dc484d833657fba8acc9))
+* update mock server docs ([8a735e4](https://github.com/Akira-Labs-01/akira-typescript/commit/8a735e4f8b478fbb5a182d7c4364525b42a8996a))
+
 ## 0.0.3 (2026-02-18)
 
 Full Changelog: [v0.0.2...v0.0.3](https://github.com/Akira-Labs-01/akira-typescript/compare/v0.0.2...v0.0.3)
