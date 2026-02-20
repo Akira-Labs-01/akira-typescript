@@ -159,7 +159,7 @@ describe('resource sandboxes', () => {
     });
   });
 
-  // Mock server doesn't support application/x-ndjson responses
+  // Mock server tests are disabled
   test.skip('executeAsync: only required params', async () => {
     const responsePromise = client.sandboxes.executeAsync('id', { command: 'npm run dev' });
     const rawResponse = await responsePromise.asResponse();
@@ -171,7 +171,7 @@ describe('resource sandboxes', () => {
     expect(dataAndResponse.response).toBe(rawResponse);
   });
 
-  // Mock server doesn't support application/x-ndjson responses
+  // Mock server tests are disabled
   test.skip('executeAsync: required and optional params', async () => {
     const response = await client.sandboxes.executeAsync('id', {
       command: 'npm run dev',
