@@ -60,7 +60,7 @@ $ yarn link akiralabs
 # With pnpm
 $ pnpm link --global
 $ cd ../my-package
-$ pnpm link -—global akiralabs
+$ pnpm link --global akiralabs
 ```
 
 ## Running tests
