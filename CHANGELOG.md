@@ -1,5 +1,31 @@
 # Changelog
 
+## 0.0.4 (2026-04-09)
+
+Full Changelog: [v0.0.3...v0.0.4](https://github.com/Akira-Labs-01/akira-typescript/compare/v0.0.3...v0.0.4)
+
+### Bug Fixes
+
+* **client:** preserve URL params already embedded in path ([6ad63e1](https://github.com/Akira-Labs-01/akira-typescript/commit/6ad63e101c63441a0c63ac5b0524f8665444887a))
+* **docs/contributing:** correct pnpm link command ([2f22597](https://github.com/Akira-Labs-01/akira-typescript/commit/2f22597d6bf84b40c08adee6cf9aed8488a8a95c))
+* **internal:** skip tests that depend on mock server ([54ebc16](https://github.com/Akira-Labs-01/akira-typescript/commit/54ebc1631fe66c4f232ec5634adb584561609c56))
+
+
+### Chores
+
+* **ci:** skip lint on metadata-only changes ([41736a4](https://github.com/Akira-Labs-01/akira-typescript/commit/41736a472596f273d91322206ecde0d3ef9eb726))
+* **ci:** skip uploading artifacts on stainless-internal branches ([9981035](https://github.com/Akira-Labs-01/akira-typescript/commit/998103582709ce80b56891158a5df1654a42c3e6))
+* **internal:** codegen related update ([eb8140f](https://github.com/Akira-Labs-01/akira-typescript/commit/eb8140fc452c44320e06b96d6470ad2c809c2f3f))
+* **internal:** codegen related update ([7b94a9f](https://github.com/Akira-Labs-01/akira-typescript/commit/7b94a9f36b83de88436b61157f6f0c04c6d84725))
+* **internal:** move stringifyQuery implementation to internal function ([4e7b03c](https://github.com/Akira-Labs-01/akira-typescript/commit/4e7b03cf7e120f5e257ac6e3411277038c2817b2))
+* **internal:** remove mock server code ([418f643](https://github.com/Akira-Labs-01/akira-typescript/commit/418f6434d98a57576e83e5349ee04cae5fe10783))
+* **internal:** tweak CI branches ([fa6157a](https://github.com/Akira-Labs-01/akira-typescript/commit/fa6157af78b29e3f1bd9e31f457d2f9e56d38e26))
+* **internal:** update dependencies to address dependabot vulnerabilities ([dbb30f2](https://github.com/Akira-Labs-01/akira-typescript/commit/dbb30f26430eb781f4e2ee00cb22569845511408))
+* **internal:** update gitignore ([b315601](https://github.com/Akira-Labs-01/akira-typescript/commit/b315601358d45f305ca0b0e5593541af3f2e4294))
+* **internal:** upgrade pnpm version ([a042225](https://github.com/Akira-Labs-01/akira-typescript/commit/a04222573415c81301d3b0c53c4d5b6ced874e76))
+* **test:** update skip reason message ([40cc4b5](https://github.com/Akira-Labs-01/akira-typescript/commit/40cc4b54fe88dd22f794dc484d833657fba8acc9))
+* update mock server docs ([8a735e4](https://github.com/Akira-Labs-01/akira-typescript/commit/8a735e4f8b478fbb5a182d7c4364525b42a8996a))
+
 ## 0.0.3 (2026-02-18)
 
 Full Changelog: [v0.0.2...v0.0.3](https://github.com/Akira-Labs-01/akira-typescript/compare/v0.0.2...v0.0.3)
